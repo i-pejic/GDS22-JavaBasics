@@ -21,5 +21,9 @@ public class ArithmetischeOperationen {
         // double div = a / (1.0 * b);
         double div = (double) a / (double) b;
         System.out.println("div = " + div);
+
+        System.out.println("a++ = " + a++);
+        System.out.println("a = " + a);
+        System.out.println("++a = " + ++a);
     }
 }
